@@ -26,7 +26,7 @@ To run this application on your local machine, you need Python and the NiceGUI p
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/rahuljangra396/NiceGUI-Task_Manager.git](https://github.com/rahuljangra396/NiceGUI-Task_Manager.git)
+    git clone [https://github.com/rahibladex/NiceGUI-Task_Manager.git](https://github.com/rahibladex/NiceGUI-Task_Manager.git)
     cd NiceGUI-Task_Manager
     ```
 
